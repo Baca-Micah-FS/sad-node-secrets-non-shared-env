@@ -1,0 +1,13 @@
+{
+  "name": "sad-non-shared-secret",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Classroom demonstration of a local dotenv secret excluded from Git",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
